@@ -31,7 +31,7 @@ export function CompanyHeader() {
               </div>
               <div className="flex items-center gap-1">
                 <Globe className="size-4" />
-                <span>techcorp.com</span>
+                <span>softysta.com</span>
               </div>
             </div>
           </div>

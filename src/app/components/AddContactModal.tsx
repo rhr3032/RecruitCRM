@@ -104,7 +104,7 @@ export function AddContactModal({ open, onOpenChange }: AddContactModalProps) {
                 type="email"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
-                placeholder="john.smith@techcorp.com"
+                placeholder="john.smith@softysta.com"
                 required
               />
             </div>

@@ -9,7 +9,7 @@ const contacts = [
     id: 1,
     name: 'Sarah Johnson',
     title: 'Head of Engineering',
-    email: 'sarah.johnson@techcorp.com',
+    email: 'sarah.johnson@softysta.com',
     phone: '+1 (555) 123-4567',
     avatar: '/api/placeholder/40/40',
     status: 'primary'
@@ -18,7 +18,7 @@ const contacts = [
     id: 2,
     name: 'Michael Chen',
     title: 'HR Manager',
-    email: 'michael.chen@techcorp.com',
+    email: 'michael.chen@softysta.com',
     phone: '+1 (555) 234-5678',
     avatar: '/api/placeholder/40/40',
     status: 'secondary'
@@ -27,7 +27,7 @@ const contacts = [
     id: 3,
     name: 'Emily Rodriguez',
     title: 'Talent Acquisition Lead',
-    email: 'emily.rodriguez@techcorp.com',
+    email: 'emily.rodriguez@softysta.com',
     phone: '+1 (555) 345-6789',
     avatar: '/api/placeholder/40/40',
     status: 'secondary'

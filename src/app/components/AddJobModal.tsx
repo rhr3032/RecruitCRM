@@ -91,7 +91,7 @@ export function AddJobModal({ open, onOpenChange }: AddJobModalProps) {
                   <SelectValue placeholder="Select location" />
                 </SelectTrigger>
                 <SelectContent>
-                  <SelectItem value="san-francisco">San Francisco, CA</SelectItem>
+                  <SelectItem value="san-francisco">Barisal, BD</SelectItem>
                   <SelectItem value="new-york">New York, NY</SelectItem>
                   <SelectItem value="remote">Remote</SelectItem>
                   <SelectItem value="hybrid">Hybrid</SelectItem>

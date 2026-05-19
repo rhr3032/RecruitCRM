@@ -11,7 +11,7 @@ const candidates = [
     title: 'Senior Full Stack Developer',
     email: 'jennifer.martinez@email.com',
     phone: '+1 (555) 123-4567',
-    location: 'San Francisco, CA',
+    location: 'Barisal, BD',
     experience: '8 years',
     appliedFor: 'Senior Full Stack Developer',
     status: 'interviewing',

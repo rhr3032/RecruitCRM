@@ -27,7 +27,7 @@ export function CompanyHeader() {
               </div>
               <div className="flex items-center gap-1">
                 <MapPin className="size-4" />
-                <span>San Francisco, CA</span>
+                <span>Barisal, BD</span>
               </div>
               <div className="flex items-center gap-1">
                 <Globe className="size-4" />

@@ -127,7 +127,7 @@ export function AddContactModal({ open, onOpenChange }: AddContactModalProps) {
                 <SelectValue placeholder="Select location" />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="san-francisco">San Francisco, CA</SelectItem>
+                <SelectItem value="san-francisco">Barisal, BD</SelectItem>
                 <SelectItem value="new-york">New York, NY</SelectItem>
                 <SelectItem value="austin">Austin, TX</SelectItem>
                 <SelectItem value="seattle">Seattle, WA</SelectItem>

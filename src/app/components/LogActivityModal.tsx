@@ -39,7 +39,7 @@ export function LogActivityModal({ open, onOpenChange }: LogActivityModalProps) 
         <DialogHeader>
           <DialogTitle>Log Activity</DialogTitle>
           <DialogDescription>
-            Record a new activity or interaction with TechCorp Solutions. This helps track communication history and follow-ups.
+            Record a new activity or interaction with Softysta. This helps track communication history and follow-ups.
           </DialogDescription>
         </DialogHeader>
         

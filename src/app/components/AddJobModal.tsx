@@ -49,7 +49,7 @@ export function AddJobModal({ open, onOpenChange }: AddJobModalProps) {
         <DialogHeader>
           <DialogTitle>Add New Job</DialogTitle>
           <DialogDescription>
-            Create a new job posting for TechCorp Solutions. Fill in the details below to get started.
+            Create a new job posting for Softysta. Fill in the details below to get started.
           </DialogDescription>
         </DialogHeader>
         

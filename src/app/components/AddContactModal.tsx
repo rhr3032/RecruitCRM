@@ -38,7 +38,7 @@ export function AddContactModal({ open, onOpenChange }: AddContactModalProps) {
         <DialogHeader>
           <DialogTitle>Add New Contact</DialogTitle>
           <DialogDescription>
-            Add a new contact for TechCorp Solutions. Include their role and communication preferences to improve collaboration.
+            Add a new contact for Softysta. Include their role and communication preferences to improve collaboration.
           </DialogDescription>
         </DialogHeader>
         

@@ -9,13 +9,13 @@ export function CompanyHeader() {
         {/* Company Info */}
         <div className="flex items-center gap-4">
           <Avatar className="size-12">
-            <AvatarImage src="/api/placeholder/48/48" alt="TechCorp Solutions" />
+            <AvatarImage src="/api/placeholder/48/48" alt="Softysta" />
             <AvatarFallback>TC</AvatarFallback>
           </Avatar>
           
           <div>
             <div className="flex items-center gap-3">
-              <h1 className="text-xl font-medium">TechCorp Solutions</h1>
+              <h1 className="text-xl font-medium">Softysta</h1>
               <Badge variant="secondary" className="bg-green-100 text-green-800">
                 Active Client
               </Badge>

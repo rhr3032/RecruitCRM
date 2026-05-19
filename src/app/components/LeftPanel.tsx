@@ -47,7 +47,7 @@ export function LeftPanel() {
             <Building2 className="size-4 text-muted-foreground" />
             <div>
               <div className="text-sm font-medium">Industry</div>
-              <div className="text-sm text-muted-foreground">Software Technology</div>
+              <div className="text-sm text-muted-foreground">Software IT Firm</div>
             </div>
           </div>
           <div className="flex items-center gap-3">

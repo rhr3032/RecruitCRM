@@ -23,7 +23,7 @@ export function CompanyHeader() {
             <div className="flex items-center gap-4 text-sm text-muted-foreground mt-1">
               <div className="flex items-center gap-1">
                 <Building2 className="size-4" />
-                <span>Technology</span>
+                <span>IT Firm</span>
               </div>
               <div className="flex items-center gap-1">
                 <MapPin className="size-4" />
